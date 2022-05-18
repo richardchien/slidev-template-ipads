@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@slidev/cli": "^0.13.12",
-    "@slidev/theme-default": "^0.7.4"
+    "@slidev/cli": "^0.31.4",
+    "@slidev/theme-default": "^0.21.2"
   }
 }
